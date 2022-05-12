@@ -1,3 +1,3 @@
 # Estudos C++
 
-<center><h2>Alguns exercícios em algumas linguagens de programação que eu aprendi.</h2>
+<center><h2>Alguns exercícios da maratona de programação da UFRRJ resolvidos por mim e pelo meu time</h2>
